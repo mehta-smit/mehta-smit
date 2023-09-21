@@ -24,7 +24,7 @@ and I am always eager to learn and take on new challenges.
 
 ## Experience
 #### Coditation Systems Pvt. Ltd. — Senior Software Engineer
-<h6>Oct 2021 - Present (2 Years)</h6>
+*Oct 2021 - Present (2 Years)*
 
 Coditation Systems is a service-oriented company where I have honed a multitude of skills while collaborating with three
 distinct clients during my tenure.
@@ -37,7 +37,7 @@ distinct clients during my tenure.
 - Developed 2 Proof of Concepts (PoCs) leveraging OpenAI, LangChain, Large-Language Model (LLM), and Hugging Face models, showcasing my commitment to exploring cutting-edge technologies
 
 #### Tech Prescient  -- Senior Software Engineer 
-<h6>March 2021 - Oct 2021 (7 Months)</h6>
+*March 2021 - Oct 2021 (7 Months)*
 I have worked with ***Teikametrics*** Client as a contractor, Developing a System to integrate with
 ecommerce DSPs. Such as Walmart, eBay, Amazon.
 - A user can sponsor the ads of items in the inventory and be able to run the various types
@@ -47,7 +47,7 @@ Keyword Bids/Items. Based on the user inventory and ad groups of campaigns.
 - Worked on integrating partners APIs. Such as Walmart, eBay.
 
 #### Screen Magic Mobile Media — Software Developer M1
-<h6>July 2018 - Nov 2020 (2 Years & 5 Months)</h6>
+*July 2018 - Nov 2020 (2 Years & 5 Months)*
 
 SMS-Magic Provides Services to send SMS/MMS all across the globe. Working with major market leading CRMs. such as
 Salesforce, Zoho, Bullhorn, TalkDesk.
@@ -68,13 +68,13 @@ Salesforce, Zoho, Bullhorn, TalkDesk.
 ## Education
 
 #### Government Engineering College, Modasa — Bachelor's Engg. in IT
-<h6>August 2015 - May 2018</h6>
+*August 2015 - May 2018*
 - ***7.73 CGPA***
 - Enrollment Number: 150163116013
 - While Pursuing last year, I completed ***2 internships*** in Python and Flask.
 
-#### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT**
-<h6>March 2012 - May 2015</h6>
+#### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT
+*March 2012 - May 2015*
 - ***8.42 CGPA***
 - Enrollment Number: 126723116015
 - 79th Merit Rank All over Gujarat State in IT Branch
