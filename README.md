@@ -24,10 +24,10 @@ and I am always eager to learn and take on new challenges.
 
 ## Experience
 
-#### Crest Data System Pvt. Ltd. — Technical Lead, Engineering
+### Crest Data System Pvt. Ltd. — Technical Lead, Engineering
 *Dec 2023 - Present*
 
-#### Coditation Systems Pvt. Ltd. — Senior Software Engineer
+### Coditation Systems Pvt. Ltd. — Senior Software Engineer
 *Oct 2021 - Nov 2023 (2 Years & 2 Months)*
 
 Coditation Systems is a service-oriented company where I have honed a multitude of skills while collaborating with three
@@ -40,7 +40,7 @@ distinct clients during my tenure.
 - Engaged with a client to further my knowledge and practical experience in AWS and Infrastructure as Code (IaC)
 - Developed 2 Proof of Concepts (PoCs) leveraging OpenAI, LangChain, Large-Language Model (LLM), and Hugging Face models, showcasing my commitment to exploring cutting-edge technologies
 
-#### Tech Prescient  -- Senior Software Engineer 
+### Tech Prescient  -- Senior Software Engineer 
 *March 2021 - Oct 2021 (7 Months)*
 I have worked with ***Teikametrics*** Client as a contractor, Developing a System to integrate with
 ecommerce DSPs. Such as Walmart, eBay, Amazon.
@@ -50,7 +50,7 @@ of campaigns to grow sales of products.
 Keyword Bids/Items. Based on the user inventory and ad groups of campaigns.
 - Worked on integrating partners APIs. Such as Walmart, eBay.
 
-#### Screen Magic Mobile Media — Software Developer M1
+### Screen Magic Mobile Media — Software Developer M1
 *July 2018 - Nov 2020 (2 Years & 5 Months)*
 
 SMS-Magic Provides Services to send SMS/MMS all across the globe. Working with major market leading CRMs. such as
@@ -71,13 +71,13 @@ Salesforce, Zoho, Bullhorn, TalkDesk.
 
 ## Education
 
-#### Government Engineering College, Modasa — Bachelor's Engg. in IT
+### Government Engineering College, Modasa — Bachelor's Engg. in IT
 *August 2015 - May 2018*
 - ***7.73 CGPA***
 - Enrollment Number: 150163116013
 - While Pursuing last year, I completed ***2 internships*** in Python and Flask.
 
-#### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT
+### Sanjaybhai Rajguru College of Engg., Rajkot — Diploma in IT
 *March 2012 - May 2015*
 - ***8.42 CGPA***
 - Enrollment Number: 126723116015
@@ -85,7 +85,7 @@ Salesforce, Zoho, Bullhorn, TalkDesk.
 
 ## Projects
 
-#### ChatGPT + Prompt Engineering
+### ChatGPT + Prompt Engineering
 
 **TapClicks Bot**
 Developed a highly robust application utilizing LangChain and OpenAI to generate graph-based representations in response
@@ -98,7 +98,7 @@ Designed and implemented a cutting-edge API that harnesses the power of the stab
 innovative system enables the generation of images tailored to user prompts, making it a valuable asset for brand
 marketing and advertising across diverse platforms.
 
-#### Customer Portal
+### Customer Portal
 Customer Portal is a SAAS Based Web Application that allows you to send bulk SMS/MMS as well as one-to-one Conversations
 and also supports multi-channels like Facebook, WhatsApp.
 
@@ -108,7 +108,7 @@ For Authentication, we have used the OAuth2 Mechanisms with Single Sign-On (SSO)
 
 I have delivered countless feature/improvement(s) & fixed bugs in this web portal.
 
-#### Multi-Channel Integrations
+### Multi-Channel Integrations
 
 - Facebook API integration to send and receive messages from the Facebook page and to its subscribers.
 - WhatsApp Messaging Integrations Using wavecell & MessengerPeople messaging service providers.
