@@ -1,5 +1,5 @@
 # Smit R. Mehta
-I am a highly skilled software engineer with <b>6+ years of experience in Python and DevOps (Intermediate).</b>
+I am a highly skilled software engineer with <b>7 years of experience in Python and DevOps (Intermediate).</b>
 I am passionate about coding with quality and efficiency, 
 and I have a proven track record of delivering successful projects. My experience spans across a range of technologies,
 and I am always eager to learn and take on new challenges.
@@ -23,6 +23,10 @@ and I am always eager to learn and take on new challenges.
 
 
 ## Experience
+
+#### Crest Data System Pvt. Ltd. — Technical Lead, Engineering
+*Dec 2023 - Present*
+
 #### Coditation Systems Pvt. Ltd. — Senior Software Engineer
 *Oct 2021 - Nov 2023 (2 Years & 2 Months)*
 
