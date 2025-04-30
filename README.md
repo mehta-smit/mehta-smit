@@ -49,6 +49,9 @@ My experience spans across a range of technologies from creating PoCs on trendin
 - Appreciation for providing efficient solutions and developing applications by Clients
 
 ## Experience
+### Upwork Inc. — Software Architecture (Freelance)
+#### *June 2024 - Present*
+Developed innovative automated trading software solutions in collaboration with 3 distinguished clients. Spearheaded advancements that enhanced trading efficiency and drove market performance.
 
 ### Crest Data System Pvt. Ltd. — Technical Lead, Engineering
 #### *Dec 2023 - June 2024 (6 Months)*
